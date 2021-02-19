@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<a href="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I"><img src="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I" title="thegif"/></a>
+<a href="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"><img src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" title="thegif"/></a>
